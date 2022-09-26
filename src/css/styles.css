@@ -1,0 +1,37 @@
+.containor {
+  text-align: center;
+  padding: auto;
+  margin: auto;
+}
+#minusButton {
+  width: 125px;
+  height: 125px;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  border-radius: 3px;
+}
+#counterValue {
+    width: 125px;
+    height: 125px;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    border-radius: 3px;
+}
+#plusButton {
+    width: 125px;
+    height: 125px;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    border-radius: 3px;
+}
+input {
+  font-size: 30px;
+  text-align: center;
+}
+button {
+    font-size: 30px;
+    text-align: center;
+  }
